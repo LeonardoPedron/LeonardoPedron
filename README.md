@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="./background.jpg" />
+<img src="./background.png" />
 
 Sono un ragazzo italiano che ha deciso di continuare la sua passione nello Sviluppo FrontEnd.<br>
 Ho studiato i miei primi liguaggi (HTML - CSS) durante le medie nei pomeriggi rimasti a casa o nei giorni in cui stavo male.<br>
