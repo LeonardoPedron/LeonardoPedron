@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 <img src="./background.png" />
 
-Sono un ragazzo italiano che ha deciso di continuare la sua passione nello Sviluppo FrontEnd.<br>
-Ho studiato i miei primi liguaggi (HTML - CSS) durante le medie nei pomeriggi rimasti a casa o nei giorni in cui stavo male.<br>
-Ad oggi 2023 ho frequentato e mi sono diplomato ad una scuola informatica e ad oggi sto frequentando un corso per poter diventare un giorno uno sviluppatore web.
+Sono un ragazzo italiano che ha deciso di trasformare la sua passione per lo sviluppo web in una carriera.
 
-Adoro giocare online 🎮 in compagnia o da solo, in particolare a League of Legends e The Binding of Isaac.
+Ho iniziato a studiare i miei primi linguaggi (HTML e CSS) durante le scuole medie, nei pomeriggi trascorsi a casa o nei giorni in cui non mi sentivo bene.
+
+Nel 2023, ho completato un corso di Full-Stack Web Developer presso la MIND Academy di Padova, che ha consolidato le mie competenze nello sviluppo web. Attualmente, lavoro come Full-Stack Web Developer in una startup, dove continuo a crescere professionalmente e ad approfondire nuove tecnologie come Rust, Angular, Docker e Kubernetes.
+
+Nel tempo libero, adoro giocare online 🎮, sia in compagnia che da solo. I miei giochi preferiti sono League of Legends e The Binding of Isaac.
 
 <div align=center>
 <h2>Le mie Abilità</h2>
